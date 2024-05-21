@@ -21,7 +21,7 @@ Train a self-designed CNN or pretrained CNN model on the MNIST extended dataset 
     - Provide an overall assessment of CNN development results.
 
 ### Progress
-For detailed information on the progress made so far, check this [link](#).
+For detailed information on the progress made so far, check this [link](https://github.com/HayeonJeong/2024_Spring_ANN/blob/main/24ANN_중간발표_7조.pdf).
 
 ### Process Steps
 1. **Data Overview and Analysis**:
