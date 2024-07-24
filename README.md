@@ -5,6 +5,7 @@ Artificial Neural Network
 
 ### Overview
 This project focuses on optimizing and analyzing a CNN model using the MNIST extended dataset.
+The final code and report will soon be uploaded.
 
 ### Objective
 Train a self-designed CNN or pretrained CNN model on the MNIST extended dataset to find an optimal combination of accuracy and inference time.
